@@ -2,10 +2,10 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-$hname = 'localhost';
-$uname = 'root';
-$pass = ''; 
-$db = 'hotel';
+$host = "localhost";
+$uname = "your_user";
+$pass = "your_password";
+$db = "your_database";;
 
 // Connect to the database
 $con = mysqli_connect($hname, $uname, $pass, $db);
