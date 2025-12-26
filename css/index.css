@@ -1,0 +1,41 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.font2{
+    font-family: "Merienda", cursive;
+}
+
+.font3{
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+input::-webkit-outer-spin-button,input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.hline{
+  width: 150px;
+  margin: 0 auto;
+  height: 1.7px;
+}
+.ontop{
+  margin-top: -50px;
+  z-index: 1;
+  position: relative;
+}
+@media screen and (max-width:575px){
+  .ontop{
+  margin-top: 25px;
+  padding: 0 35px;
+}
+}
+
+.dashboard-menu{
+  position:fixed; 
+  height:100vh; 
+  margin-top:-24px;
+  /* min-height: 100vh; */
+}
