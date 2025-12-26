@@ -42,9 +42,7 @@ This project was created to:
 ---
 
 ## 🚧 Limitations
-- No database integration  
 - No real booking or payment system  
-- Basic PHP logic only  
 
 ---
 
