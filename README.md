@@ -8,7 +8,7 @@ This project focuses on website structure, layout design, and simple interactivi
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](home_page.png)
+![Homepage](homepage.png)
 
 ### Admin Page
 ![Admin Page](admin_page.png)
