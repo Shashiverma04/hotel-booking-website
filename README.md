@@ -1,7 +1,7 @@
 # 🏨 Hotel Booking Website
 
-A frontend hotel booking website built using HTML, CSS, and basic JavaScript as part of my early web development learning phase.  
-This project focuses on website structure, layout design, and simple interactivity.
+A frontend-focused hotel booking website built using **HTML, CSS, PHP, and basic JavaScript** as part of my early web development learning phase.  
+This project focuses on website structure, layout design, basic server-side handling, and simple interactivity.
 
 ---
 
@@ -18,44 +18,46 @@ This project focuses on website structure, layout design, and simple interactivi
 ## 📌 Features
 - Homepage with hotel overview  
 - Rooms listing section  
-- Basic booking / contact form  
+- Booking / contact form using PHP  
 - Simple navigation menu  
-- Static content layout  
+- Static and form-based content  
 
 ---
 
 ## 🛠️ Tech Stack
-- HTML – Page structure  
-- CSS – Styling and layout  
-- JavaScript (basic) – Simple interactivity  
+- **HTML** – Page structure  
+- **CSS** – Styling and layout  
+- **PHP** – Basic server-side form handling  
+- **JavaScript (basic)** – Simple interactivity  
 
 ---
 
 ## 🎯 Purpose of This Project
 This project was created to:
 - Practice building multi-page websites  
+- Learn basic PHP form handling  
 - Strengthen HTML and CSS fundamentals  
-- Learn basic JavaScript usage  
-- Understand static website hosting  
+- Understand server-side and frontend interaction  
 
 ---
 
 ## 🚧 Limitations
-- No real booking or payment functionality  
-- Static content only  
+- No database integration  
+- No real booking or payment system  
+- Basic PHP logic only  
 
 ---
 
 ## 🔮 Possible Improvements
-- Make the website fully responsive  
+- Add database connectivity (MySQL)  
+- Implement real booking functionality  
 - Improve UI/UX design  
-- Add backend booking functionality  
-- Upgrade to a modern frontend framework  
+- Make the website fully responsive  
 
 ---
 
 ## 📈 Learning Outcome
-This project represents my foundation in frontend development and reflects my growth before moving on to more advanced AI and backend-focused projects.
+This project represents my foundation in frontend and basic backend development and reflects my growth before moving on to more advanced AI and full-stack projects.
 
 ---
 
