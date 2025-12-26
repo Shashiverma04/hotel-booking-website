@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-$host = "localhost";
+$hname = "localhost";
 $uname = "your_user";
 $pass = "your_password";
 $db = "your_database";;
